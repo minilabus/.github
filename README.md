@@ -1,5 +1,6 @@
 # .github
-![logo](https://github.com/anroy1/.github/blob/main/UdeS_logo_h_pms347.eps)
+![logo](https://github.com/anroy1/.github/blob/main/UdeS_logo_h_rgbLR.png)
+
 Welcome to minilabus  
 
 Bienvenue sur le Github de minilabus
