@@ -1,5 +1,5 @@
 # .github
-![logo](https://github.com/anroy1/.github/blob/main/UdeS_logo_h_rgb.svg)
+![logo](https://github.com/anroy1/.github/blob/main/UdeS_logo_h_rgb.eps)
 Welcome to minilabus  
 
 Bienvenue sur le Github de minilabus
